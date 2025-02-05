@@ -1,0 +1,15 @@
+.pytest_cache/
+__pycache__/
+.vscode/
+.env.dev
+.env
+.venv/
+.mypy_cache/
+.coverage
+.DS_Store
+.env.prod
+.ruff_cache/
+coverage.xml
+node_modules/
+staticfiles/
+cron.log
